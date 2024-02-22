@@ -9,7 +9,7 @@ const questions = [
         ]
     },
     {
-        question: "Who was the first Black self-made female millionaires in the United States?",
+        question: "Who was the first Black self-made female millionaire in the United States?",
         answers: [
             {text: "Beyonce", correct: false},
             {text: "Josephine Baker", correct: false},
